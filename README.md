@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://count.getloli.com/get/@Ritshu?theme=rule34" alt="ritshu" /> </p>
 
-### <p align="center">about me</p>
+### <p align="center">About Me</p>
 
 <div align="center">
   hello my name is yana
