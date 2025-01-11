@@ -1,8 +1,7 @@
-<p align="center">
-<img height="180px" src=https://github.com/account?theme=dark&idleMessage=☄️%20Developer Of A Website And Game%20☄️&bg=050F2C&showDisplayName=true" />
-</p>
 <p align="center"> <img src="https://count.getloli.com/get/@Ritshu?theme=rule34" alt="ritshu" /> </p>
-
+### <p align="center">about me</p>
+<div align="center">
+  hello my name is yana
 ### <p align="center">Language and Tools</p>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="40" width="52" alt="Python logo"  />
